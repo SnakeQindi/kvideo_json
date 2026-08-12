@@ -64,14 +64,6 @@
         "priority": 8
     },
     {
-        "id": "modu",
-        "name": "魔都资源",
-        "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 9
-    },
-    {
         "id": "sanliuling",
         "name": "360资源",
         "baseUrl": "https://360zy.com/api.php/provide/vod",
