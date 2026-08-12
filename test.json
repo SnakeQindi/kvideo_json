@@ -584,107 +584,107 @@
         "priority": 22
     },
     {
-    "id": "lbapiby",
-    "name": "AIvin",
-    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 23
+        "id": "lbapiby",
+        "name": "AIvin",
+        "baseUrl": "http://lbapiby.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 23
     },
     {
-    "id": "yutu",
-    "name": "玉兔资源",
-    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 24
+        "id": "yutu",
+        "name": "玉兔资源",
+        "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 24
     },
     {
-    "id": "danaizi",
-    "name": "大奶子",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 25
+        "id": "danaizi",
+        "name": "大奶子",
+        "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 25
     },
     {
-    "id": "slapibf",
-    "name": "森林资源",
-    "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 26
+        "id": "slapibf",
+        "name": "森林资源",
+        "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 26
     },
     {
-    "id": "doudou",
-    "name": "豆豆资源",
-    "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 27
+        "id": "doudou",
+        "name": "豆豆资源",
+        "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 27
     },
     {
-    "id": "didi",
-    "name": "滴滴资源",
-    "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 28
+        "id": "didi",
+        "name": "滴滴资源",
+        "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 28
     },
     {
-    "id": "heiliao",
-    "name": "黑料资源",
-    "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 29
+        "id": "heiliao",
+        "name": "黑料资源",
+        "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 29
     },
     {
-    "id": "taohua",
-    "name": "桃花资源",
-    "baseUrl": "https://thzy1.me/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 30
+        "id": "taohua",
+        "name": "桃花资源",
+        "baseUrl": "https://thzy1.me/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 30
     },
     {
-    "id": "souav",
-    "name": "souavZY",
-    "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 31
+        "id": "souav",
+        "name": "souavZY",
+        "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 31
     },
     {
-    "id": "uuid-a33",
-    "name": "大地资源",
-    "url": "https://dadiapi.com/feifei",
-    "group": "premium",
-    "enabled": true
-    "priority": 32
+        "id": "uuid-a33",
+        "name": "大地资源",
+        "url": "https://dadiapi.com/feifei",
+        "group": "premium",
+        "enabled": true
+        "priority": 32
     },
     {
-    "id": "uuid-a28",
-    "name": "香蕉资源",
-    "url": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 33
+        "id": "uuid-a28",
+        "name": "香蕉资源",
+        "url": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 33
     },
     {
-    "id": "uuid-a23",
-    "name": "souavZY2",
-    "url": "https://api.souavzy.vip/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 34
+        "id": "uuid-a23",
+        "name": "souavZY2",
+        "url": "https://api.souavzy.vip/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 34
     }, 
     {
-    "id": "hsck2",
-    "name": "黄色仓库2",
-    "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true
-    "priority": 35
+        "id": "hsck2",
+        "name": "黄色仓库2",
+        "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true
+        "priority": 35
     }
 ]
