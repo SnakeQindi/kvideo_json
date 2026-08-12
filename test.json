@@ -656,6 +656,14 @@
         "priority": 31
     },
     {
+        "id": "ddzy",
+        "name": "大地资源",
+        "baseUrl": "https://dadiapi.com/feifei",
+        "group": "premium",
+        "enabled": true,
+        "priority": 32
+    },
+    {
         "id": "xjzy",
         "name": "香蕉资源",
         "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod",
