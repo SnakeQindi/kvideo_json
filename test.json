@@ -680,11 +680,11 @@
     "priority": 34
     }, 
     {
-    "id": "hsck",
+    "id": "hsck2",
     "name": "黄色仓库2",
     "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
     "group": "premium",
     "enabled": true
     "priority": 35
-    },
+    }
 ]
