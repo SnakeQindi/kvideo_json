@@ -655,4 +655,36 @@
         "enabled": true,
         "priority": 31
     }
+    {
+        "id": "ddzy",
+        "name": "大地资源",
+        "baseUrl": "https://dadiapi.com/feifei",
+        "group": "premium",
+        "enabled": true,
+        "priority": 32
+    },
+    {
+        "id": "xjzy",
+        "name": "香蕉资源",
+        "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 33
+    },
+    {
+        "id": "souav2",
+        "name": "souavZY2",
+        "baseUrl": "https://api.souavzy.vip/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 34
+    },
+    {
+        "id": "hsck2",
+        "name": "黄色仓库2",
+        "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 35
+    }
 ]
