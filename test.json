@@ -686,5 +686,13 @@
         "group": "premium",
         "enabled": true,
         "priority": 35
+    },
+    {
+        "id": "laoya",
+        "name": "老鸭",
+        "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
+        "group": "premium",
+        "enabled": true,
+        "priority": 36
     }
 ]
