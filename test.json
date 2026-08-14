@@ -522,7 +522,7 @@
     {
         "id": "aosika",
         "name": "奥斯卡资源",
-        "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+        "baseUrl": "https://aosikazy1.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 15
@@ -538,7 +538,7 @@
     {
         "id": "senlin",
         "name": "森林资源",
-        "baseUrl": "https://slapibf.com/api.php/provide/vod",
+        "baseUrl": "http://senlinzy2.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
         "priority": 17
@@ -562,7 +562,7 @@
     {
         "id": "shayu",
         "name": "鲨鱼资源",
-        "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+        "baseUrl": "https://shayuzy5.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 20
@@ -610,7 +610,7 @@
     {
         "id": "slapibf",
         "name": "森林资源",
-        "baseUrl": "https://beiyong.slapibf.com/api.php/provide/vod",
+        "baseUrl": "http://senlinzy2.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
         "priority": 26
@@ -618,7 +618,7 @@
     {
         "id": "doudou",
         "name": "豆豆资源",
-        "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+        "baseUrl": "https://doudouzy.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 27
@@ -680,27 +680,27 @@
         "priority": 34
     },
     {
-        "id": "hsck2",
-        "name": "黄色仓库2",
-        "baseUrl": "https://hsckzy.xyz/api.php/provide/vod",
-        "group": "premium",
-        "enabled": true,
-        "priority": 35
-    },
-    {
         "id": "laoya",
         "name": "老鸭",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
-        "priority": 36
+        "priority": 35
     },
     {
         "id": "xingbazy",
         "name": "杏吧资源",
-        "baseUrl": "https://xingba111.com/api.php/provide/vod/",
+        "baseUrl": "https://sex8zy.com/api.php/provide/vod/",
+        "group": "premium",
+        "enabled": true,
+        "priority": 36
+    },
+    {
+        "id": "jipinzy",
+        "name": "极品资源",
+        "baseUrl": "https://jipinvip2.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
         "priority": 37
-    }
+    },
 ]
