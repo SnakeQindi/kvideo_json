@@ -408,13 +408,14 @@
         "priority": 56
     },
     {
-        "id": "leba",
-        "name": "乐播资源",
-        "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+        "id": "xingbazy",
+        "name": "杏吧资源",
+        "baseUrl": "https://sex8zy.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
         "priority": 1
     },
+    
     {
         "id": "ck",
         "name": "CK",
@@ -688,9 +689,9 @@
         "priority": 35
     },
     {
-        "id": "xingbazy",
-        "name": "杏吧资源",
-        "baseUrl": "https://sex8zy.com/api.php/provide/vod/",
+        "id": "leba",
+        "name": "乐播资源",
+        "baseUrl": "https://lbapi9.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 36
