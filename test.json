@@ -694,5 +694,13 @@
         "group": "premium",
         "enabled": true,
         "priority": 36
+    },
+    {
+        "id": "jipinzy",
+        "name": "极品资源",
+        "baseUrl": "https://jipinvip2.com/api.php/provide/vod/",
+        "group": "premium",
+        "enabled": true,
+        "priority": 37
     }
 ]
