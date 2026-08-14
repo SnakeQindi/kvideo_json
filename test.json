@@ -658,7 +658,7 @@
     {
         "id": "ddzy",
         "name": "大地资源",
-        "baseUrl": "https://dadiapi.com/feifei",
+        "baseUrl": "https://dadiapi.com/api.php/provide/vod/",
         "group": "premium",
         "enabled": true,
         "priority": 32
